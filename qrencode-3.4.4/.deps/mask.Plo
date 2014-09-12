@@ -1,0 +1,124 @@
+mask.lo: mask.c config.h \
+ /home/bob/work_tcl/novatekoss/gcc-nt667_linux/bin/../arm-linux-gnueabihf/libc/usr/include/./stdlib.h \
+ /home/bob/work_tcl/novatekoss/gcc-nt667_linux/bin/../arm-linux-gnueabihf/libc/usr/include/./features.h \
+ /home/bob/work_tcl/novatekoss/gcc-nt667_linux/bin/../arm-linux-gnueabihf/libc/usr/include/arm-linux-gnueabihf/bits/predefs.h \
+ /home/bob/work_tcl/novatekoss/gcc-nt667_linux/bin/../arm-linux-gnueabihf/libc/usr/include/arm-linux-gnueabihf/sys/cdefs.h \
+ /home/bob/work_tcl/novatekoss/gcc-nt667_linux/bin/../arm-linux-gnueabihf/libc/usr/include/arm-linux-gnueabihf/bits/wordsize.h \
+ /home/bob/work_tcl/novatekoss/gcc-nt667_linux/bin/../arm-linux-gnueabihf/libc/usr/include/arm-linux-gnueabihf/gnu/stubs.h \
+ /home/bob/work_tcl/novatekoss/gcc-nt667_linux/bin/../lib/gcc/arm-linux-gnueabihf/4.7.3/include/stddef.h \
+ /home/bob/work_tcl/novatekoss/gcc-nt667_linux/bin/../arm-linux-gnueabihf/libc/usr/include/arm-linux-gnueabihf/bits/waitflags.h \
+ /home/bob/work_tcl/novatekoss/gcc-nt667_linux/bin/../arm-linux-gnueabihf/libc/usr/include/arm-linux-gnueabihf/bits/waitstatus.h \
+ /home/bob/work_tcl/novatekoss/gcc-nt667_linux/bin/../arm-linux-gnueabihf/libc/usr/include/./endian.h \
+ /home/bob/work_tcl/novatekoss/gcc-nt667_linux/bin/../arm-linux-gnueabihf/libc/usr/include/arm-linux-gnueabihf/bits/endian.h \
+ /home/bob/work_tcl/novatekoss/gcc-nt667_linux/bin/../arm-linux-gnueabihf/libc/usr/include/arm-linux-gnueabihf/bits/byteswap.h \
+ /home/bob/work_tcl/novatekoss/gcc-nt667_linux/bin/../arm-linux-gnueabihf/libc/usr/include/arm-linux-gnueabihf/sys/types.h \
+ /home/bob/work_tcl/novatekoss/gcc-nt667_linux/bin/../arm-linux-gnueabihf/libc/usr/include/arm-linux-gnueabihf/bits/types.h \
+ /home/bob/work_tcl/novatekoss/gcc-nt667_linux/bin/../arm-linux-gnueabihf/libc/usr/include/arm-linux-gnueabihf/bits/typesizes.h \
+ /home/bob/work_tcl/novatekoss/gcc-nt667_linux/bin/../arm-linux-gnueabihf/libc/usr/include/./time.h \
+ /home/bob/work_tcl/novatekoss/gcc-nt667_linux/bin/../arm-linux-gnueabihf/libc/usr/include/arm-linux-gnueabihf/sys/select.h \
+ /home/bob/work_tcl/novatekoss/gcc-nt667_linux/bin/../arm-linux-gnueabihf/libc/usr/include/arm-linux-gnueabihf/bits/select.h \
+ /home/bob/work_tcl/novatekoss/gcc-nt667_linux/bin/../arm-linux-gnueabihf/libc/usr/include/arm-linux-gnueabihf/bits/sigset.h \
+ /home/bob/work_tcl/novatekoss/gcc-nt667_linux/bin/../arm-linux-gnueabihf/libc/usr/include/arm-linux-gnueabihf/bits/time.h \
+ /home/bob/work_tcl/novatekoss/gcc-nt667_linux/bin/../arm-linux-gnueabihf/libc/usr/include/arm-linux-gnueabihf/sys/sysmacros.h \
+ /home/bob/work_tcl/novatekoss/gcc-nt667_linux/bin/../arm-linux-gnueabihf/libc/usr/include/arm-linux-gnueabihf/bits/pthreadtypes.h \
+ /home/bob/work_tcl/novatekoss/gcc-nt667_linux/bin/../arm-linux-gnueabihf/libc/usr/include/./alloca.h \
+ /home/bob/work_tcl/novatekoss/gcc-nt667_linux/bin/../arm-linux-gnueabihf/libc/usr/include/./string.h \
+ /home/bob/work_tcl/novatekoss/gcc-nt667_linux/bin/../arm-linux-gnueabihf/libc/usr/include/./xlocale.h \
+ /home/bob/work_tcl/novatekoss/gcc-nt667_linux/bin/../lib/gcc/arm-linux-gnueabihf/4.7.3/include-fixed/limits.h \
+ /home/bob/work_tcl/novatekoss/gcc-nt667_linux/bin/../lib/gcc/arm-linux-gnueabihf/4.7.3/include-fixed/syslimits.h \
+ /home/bob/work_tcl/novatekoss/gcc-nt667_linux/bin/../arm-linux-gnueabihf/libc/usr/include/./limits.h \
+ /home/bob/work_tcl/novatekoss/gcc-nt667_linux/bin/../arm-linux-gnueabihf/libc/usr/include/arm-linux-gnueabihf/bits/posix1_lim.h \
+ /home/bob/work_tcl/novatekoss/gcc-nt667_linux/bin/../arm-linux-gnueabihf/libc/usr/include/arm-linux-gnueabihf/bits/local_lim.h \
+ /home/bob/work_tcl/novatekoss/gcc-nt667_linux/bin/../arm-linux-gnueabihf/libc/usr/include/./linux/limits.h \
+ /home/bob/work_tcl/novatekoss/gcc-nt667_linux/bin/../arm-linux-gnueabihf/libc/usr/include/arm-linux-gnueabihf/bits/posix2_lim.h \
+ /home/bob/work_tcl/novatekoss/gcc-nt667_linux/bin/../arm-linux-gnueabihf/libc/usr/include/./errno.h \
+ /home/bob/work_tcl/novatekoss/gcc-nt667_linux/bin/../arm-linux-gnueabihf/libc/usr/include/arm-linux-gnueabihf/bits/errno.h \
+ /home/bob/work_tcl/novatekoss/gcc-nt667_linux/bin/../arm-linux-gnueabihf/libc/usr/include/./linux/errno.h \
+ /home/bob/work_tcl/novatekoss/gcc-nt667_linux/bin/../arm-linux-gnueabihf/libc/usr/include/arm-linux-gnueabihf/asm/errno.h \
+ /home/bob/work_tcl/novatekoss/gcc-nt667_linux/bin/../arm-linux-gnueabihf/libc/usr/include/./asm-generic/errno.h \
+ /home/bob/work_tcl/novatekoss/gcc-nt667_linux/bin/../arm-linux-gnueabihf/libc/usr/include/./asm-generic/errno-base.h \
+ qrencode.h qrspec.h mask.h
+
+config.h:
+
+/home/bob/work_tcl/novatekoss/gcc-nt667_linux/bin/../arm-linux-gnueabihf/libc/usr/include/./stdlib.h:
+
+/home/bob/work_tcl/novatekoss/gcc-nt667_linux/bin/../arm-linux-gnueabihf/libc/usr/include/./features.h:
+
+/home/bob/work_tcl/novatekoss/gcc-nt667_linux/bin/../arm-linux-gnueabihf/libc/usr/include/arm-linux-gnueabihf/bits/predefs.h:
+
+/home/bob/work_tcl/novatekoss/gcc-nt667_linux/bin/../arm-linux-gnueabihf/libc/usr/include/arm-linux-gnueabihf/sys/cdefs.h:
+
+/home/bob/work_tcl/novatekoss/gcc-nt667_linux/bin/../arm-linux-gnueabihf/libc/usr/include/arm-linux-gnueabihf/bits/wordsize.h:
+
+/home/bob/work_tcl/novatekoss/gcc-nt667_linux/bin/../arm-linux-gnueabihf/libc/usr/include/arm-linux-gnueabihf/gnu/stubs.h:
+
+/home/bob/work_tcl/novatekoss/gcc-nt667_linux/bin/../lib/gcc/arm-linux-gnueabihf/4.7.3/include/stddef.h:
+
+/home/bob/work_tcl/novatekoss/gcc-nt667_linux/bin/../arm-linux-gnueabihf/libc/usr/include/arm-linux-gnueabihf/bits/waitflags.h:
+
+/home/bob/work_tcl/novatekoss/gcc-nt667_linux/bin/../arm-linux-gnueabihf/libc/usr/include/arm-linux-gnueabihf/bits/waitstatus.h:
+
+/home/bob/work_tcl/novatekoss/gcc-nt667_linux/bin/../arm-linux-gnueabihf/libc/usr/include/./endian.h:
+
+/home/bob/work_tcl/novatekoss/gcc-nt667_linux/bin/../arm-linux-gnueabihf/libc/usr/include/arm-linux-gnueabihf/bits/endian.h:
+
+/home/bob/work_tcl/novatekoss/gcc-nt667_linux/bin/../arm-linux-gnueabihf/libc/usr/include/arm-linux-gnueabihf/bits/byteswap.h:
+
+/home/bob/work_tcl/novatekoss/gcc-nt667_linux/bin/../arm-linux-gnueabihf/libc/usr/include/arm-linux-gnueabihf/sys/types.h:
+
+/home/bob/work_tcl/novatekoss/gcc-nt667_linux/bin/../arm-linux-gnueabihf/libc/usr/include/arm-linux-gnueabihf/bits/types.h:
+
+/home/bob/work_tcl/novatekoss/gcc-nt667_linux/bin/../arm-linux-gnueabihf/libc/usr/include/arm-linux-gnueabihf/bits/typesizes.h:
+
+/home/bob/work_tcl/novatekoss/gcc-nt667_linux/bin/../arm-linux-gnueabihf/libc/usr/include/./time.h:
+
+/home/bob/work_tcl/novatekoss/gcc-nt667_linux/bin/../arm-linux-gnueabihf/libc/usr/include/arm-linux-gnueabihf/sys/select.h:
+
+/home/bob/work_tcl/novatekoss/gcc-nt667_linux/bin/../arm-linux-gnueabihf/libc/usr/include/arm-linux-gnueabihf/bits/select.h:
+
+/home/bob/work_tcl/novatekoss/gcc-nt667_linux/bin/../arm-linux-gnueabihf/libc/usr/include/arm-linux-gnueabihf/bits/sigset.h:
+
+/home/bob/work_tcl/novatekoss/gcc-nt667_linux/bin/../arm-linux-gnueabihf/libc/usr/include/arm-linux-gnueabihf/bits/time.h:
+
+/home/bob/work_tcl/novatekoss/gcc-nt667_linux/bin/../arm-linux-gnueabihf/libc/usr/include/arm-linux-gnueabihf/sys/sysmacros.h:
+
+/home/bob/work_tcl/novatekoss/gcc-nt667_linux/bin/../arm-linux-gnueabihf/libc/usr/include/arm-linux-gnueabihf/bits/pthreadtypes.h:
+
+/home/bob/work_tcl/novatekoss/gcc-nt667_linux/bin/../arm-linux-gnueabihf/libc/usr/include/./alloca.h:
+
+/home/bob/work_tcl/novatekoss/gcc-nt667_linux/bin/../arm-linux-gnueabihf/libc/usr/include/./string.h:
+
+/home/bob/work_tcl/novatekoss/gcc-nt667_linux/bin/../arm-linux-gnueabihf/libc/usr/include/./xlocale.h:
+
+/home/bob/work_tcl/novatekoss/gcc-nt667_linux/bin/../lib/gcc/arm-linux-gnueabihf/4.7.3/include-fixed/limits.h:
+
+/home/bob/work_tcl/novatekoss/gcc-nt667_linux/bin/../lib/gcc/arm-linux-gnueabihf/4.7.3/include-fixed/syslimits.h:
+
+/home/bob/work_tcl/novatekoss/gcc-nt667_linux/bin/../arm-linux-gnueabihf/libc/usr/include/./limits.h:
+
+/home/bob/work_tcl/novatekoss/gcc-nt667_linux/bin/../arm-linux-gnueabihf/libc/usr/include/arm-linux-gnueabihf/bits/posix1_lim.h:
+
+/home/bob/work_tcl/novatekoss/gcc-nt667_linux/bin/../arm-linux-gnueabihf/libc/usr/include/arm-linux-gnueabihf/bits/local_lim.h:
+
+/home/bob/work_tcl/novatekoss/gcc-nt667_linux/bin/../arm-linux-gnueabihf/libc/usr/include/./linux/limits.h:
+
+/home/bob/work_tcl/novatekoss/gcc-nt667_linux/bin/../arm-linux-gnueabihf/libc/usr/include/arm-linux-gnueabihf/bits/posix2_lim.h:
+
+/home/bob/work_tcl/novatekoss/gcc-nt667_linux/bin/../arm-linux-gnueabihf/libc/usr/include/./errno.h:
+
+/home/bob/work_tcl/novatekoss/gcc-nt667_linux/bin/../arm-linux-gnueabihf/libc/usr/include/arm-linux-gnueabihf/bits/errno.h:
+
+/home/bob/work_tcl/novatekoss/gcc-nt667_linux/bin/../arm-linux-gnueabihf/libc/usr/include/./linux/errno.h:
+
+/home/bob/work_tcl/novatekoss/gcc-nt667_linux/bin/../arm-linux-gnueabihf/libc/usr/include/arm-linux-gnueabihf/asm/errno.h:
+
+/home/bob/work_tcl/novatekoss/gcc-nt667_linux/bin/../arm-linux-gnueabihf/libc/usr/include/./asm-generic/errno.h:
+
+/home/bob/work_tcl/novatekoss/gcc-nt667_linux/bin/../arm-linux-gnueabihf/libc/usr/include/./asm-generic/errno-base.h:
+
+qrencode.h:
+
+qrspec.h:
+
+mask.h:
